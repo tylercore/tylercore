@@ -1,44 +1,55 @@
 <h2 align="left">Hi there👋! </h2>
-<p>My name is Tsung-Yu Ho.</p>
 
-<p>I'm a frontend engineer specializing in the Next.js and React ecosystems.
-I have hands-on experience building web applications across blockchain, real-time streaming, Three.js, and WebAR projects.
-Passionate about creating interactive, user-centered experiences and currently exploring opportunities in Web3 and highly interactive web development.
-Always eager to learn, build, and push the boundaries of web technologies.</p>
+<p>I'm Tyler (Tsung-Yu Ho).</p>
+
+<p>
+Fullstack engineer with a focus on building scalable web applications and product-driven systems.
+Specialized in the Next.js and React ecosystem, with strong experience in frontend architecture and system design.
+</p>
+
+<p>
+I build modern web platforms that integrate AI capabilities, emphasizing clean architecture, maintainability, and real-world usability.
+My work spans from interactive frontend experiences to backend services (Node.js & Python) and infrastructure.
+</p>
+
+<p>
+Currently focused on AI-powered SaaS and developer-centric tools.
+</p>
+
+<p>
+I care about building systems that are not only functional, but also scalable, maintainable, and production-ready.
+</p>
 
 <br/>
 
-## 🌐 contact
- - e-mail
-   ```
-   ty.ho1126@gmail.com
-   ```
+## 🌐 Contact
 
-- Leetcode
-  <br/>
-  <a href="https://www.leetcode.com/tyyyho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tyyyho" height="30" width="40" /></a>
+- Email  
+  `ty.ho1126@gmail.com`
 
+- LeetCode  
+  <a href="https://www.leetcode.com/tyyyho" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tyyyho" height="30" width="40" />
+  </a>
 
 <br/>
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
+
+### Frontend
+Next.js · React · TypeScript · Tailwind CSS
+
+### Backend / System
+Node.js · Python · API Design · Authentication · Microservices Architecture
+
+### Desktop / App
+Electron
+
+### Others
+Docker · Git · CI/CD · System Design
+
+<br/>
+
 <div align="left">
-    <img style="margin-right: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> 
-    <img style="margin-right: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-    <img style="margin-right: 55px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> 
-    <img style="margin-right: 15px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
-    <img style="margin-right: 15px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-    <img style="margin-right: 15px;" src="https://raw.githubusercontent.com/TyyyHo/TyyyHo/main/nextjs.png" alt="nextjs" width="40" height="40" />
-    <img style="margin-right: 15px;" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-    <img style="margin-right: 15px;" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
-    <img style="margin-right: 15px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylercore&theme=dracula" alt="Top languages" />
 </div>
-
-<br/>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyyyHo&theme=dracula" alt="stats graph"  />
-</div>
-
-
-
