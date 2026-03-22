@@ -39,7 +39,7 @@ I care about building systems that are not only functional, but also scalable, m
 ### Frontend
 Next.js · React · TypeScript · Tailwind CSS
 
-### Backend / System
+### Backend
 Node.js · Python
 
 ### Desktop / App
