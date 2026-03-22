@@ -28,8 +28,8 @@ I care about building systems that are not only functional, but also scalable, m
   `ty.ho1126@gmail.com`
 
 - LeetCode  
-  <a href="https://www.leetcode.com/tyyyho" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tyyyho" height="30" width="40" />
+  <a href="https://www.leetcode.com/tylercore" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tylercore" height="30" width="40" />
   </a>
 
 <br/>
