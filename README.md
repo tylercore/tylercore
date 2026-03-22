@@ -40,7 +40,7 @@ I care about building systems that are not only functional, but also scalable, m
 Next.js · React · TypeScript · Tailwind CSS
 
 ### Backend / System
-Node.js · Python · API Design · Authentication · Microservices Architecture
+Node.js · Python
 
 ### Desktop / App
 Electron
