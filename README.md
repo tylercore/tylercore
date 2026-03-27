@@ -34,7 +34,7 @@ Docker · CI/CD · System Design · Cloud & Deployment
 
 <!-- Self-hosted GitHub stats -->
 <img
-  src="https://tylercore-stats.vercel.app/api/top-langs?username=tylercore"
+  src="https://tylercore-stats.vercel.app/api/top-langs?username=tylercore&CACHE_SECONDS=86400"
   alt="Top Languages"
 />
 
