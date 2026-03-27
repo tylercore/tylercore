@@ -51,5 +51,5 @@ Docker · Git · CI/CD · System Design
 <br/>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylercore&theme=dracula" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylertcore\&stats_format=bytes" alt="Top languages" />
 </div>
